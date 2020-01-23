@@ -1,0 +1,60 @@
+{
+  "numero": "7446b038-878d-4654-b5f9-3bd5df7030f4",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 9,
+    "second": 46
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Paul Medardo",
+    "apellido": "Acurio Lopez",
+    "cedula": "1821488963"
+  },
+  "curso": {
+    "titulo": "Inglés",
+    "costo": 80.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 14,
+        "second": 0
+      },
+      "valor": 14.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 14,
+        "second": 3
+      },
+      "valor": 14.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 14,
+        "second": 9
+      },
+      "valor": 13.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 13.666667
+}

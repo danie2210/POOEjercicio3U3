@@ -1,0 +1,60 @@
+{
+  "numero": "f87f361b-e1c5-4eda-b05e-1b171b1e7b66",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 3,
+    "second": 0
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Andres",
+    "apellido": "Rivera",
+    "cedula": "0502592231"
+  },
+  "curso": {
+    "titulo": "Programación Orientado a Objetos ",
+    "costo": 100.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 11,
+        "second": 50
+      },
+      "valor": 19.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 11,
+        "second": 57
+      },
+      "valor": 17.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 12,
+        "second": 5
+      },
+      "valor": 12.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 16.0
+}

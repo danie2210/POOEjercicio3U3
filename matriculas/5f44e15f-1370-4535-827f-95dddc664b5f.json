@@ -1,0 +1,60 @@
+{
+  "numero": "5f44e15f-1370-4535-827f-95dddc664b5f",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 9,
+    "second": 40
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "William Fabricio ",
+    "apellido": "Cando Chicaiza",
+    "cedula": "05121488963"
+  },
+  "curso": {
+    "titulo": "Programación Orientado a Objetos ",
+    "costo": 100.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 16,
+        "second": 52
+      },
+      "valor": 10.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 17,
+        "second": 1
+      },
+      "valor": 8.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 17,
+        "second": 9
+      },
+      "valor": 7.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 8.333333
+}

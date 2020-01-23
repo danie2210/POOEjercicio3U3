@@ -1,0 +1,132 @@
+[
+  {
+    "carrera": "Ingenieria de Software",
+    "clubes": [
+      "Club de danza",
+      "Club de Musica",
+      "Club de andinismo"
+    ],
+    "nombre": "Francis ",
+    "apellido": "Armas ",
+    "cedula": "1724704695"
+  },
+  {
+    "carrera": "Ingenieria de Software",
+    "clubes": [
+      "Club de andinismo",
+      "Club de Escultura",
+      "Club de Software",
+      "Club de Artes"
+    ],
+    "nombre": "Andres",
+    "apellido": "Rivera",
+    "cedula": "0502592231"
+  },
+  {
+    "carrera": "Ingenieria de Software",
+    "clubes": [
+      "Club de Musica",
+      "Club de andinismo",
+      "Club de Escultura",
+      "Club de Artes"
+    ],
+    "nombre": "Luis David",
+    "apellido": "Lignia Tuapanta",
+    "cedula": "1725785453"
+  },
+  {
+    "carrera": "Ingenieria de Mecatronica",
+    "clubes": [
+      "Club de danza",
+      "Club de Musica",
+      "Club de Escultura"
+    ],
+    "nombre": "William Fabricio ",
+    "apellido": "Cando Chicaiza",
+    "cedula": "05121488963"
+  },
+  {
+    "carrera": "Ingenieria de Electronica",
+    "clubes": [
+      "Club de andinismo",
+      "Club de Escultura",
+      "Club de Artes"
+    ],
+    "nombre": "Paul Medardo",
+    "apellido": "Acurio Lopez",
+    "cedula": "1821488963"
+  },
+  {
+    "carrera": "Ingenieria de Automotriz",
+    "clubes": [
+      "Club de danza",
+      "Club de Escultura",
+      "Club de Artes"
+    ],
+    "nombre": "Matias Alejandro",
+    "apellido": "Acurio Palacios",
+    "cedula": "18214881569"
+  },
+  {
+    "carrera": "Ingenieria de Automotriz",
+    "clubes": [
+      "Club de Musica",
+      "Club de andinismo"
+    ],
+    "nombre": "Damian Leonel",
+    "apellido": "Quiñones Paredes",
+    "cedula": "1821441569"
+  },
+  {
+    "carrera": "Ingenieria de Electronica",
+    "clubes": [
+      "Club de Escultura"
+    ],
+    "nombre": "Roberto Tomas",
+    "apellido": "Flores Martines",
+    "cedula": "1824704695"
+  },
+  {
+    "carrera": "Ingenieria de Electronica",
+    "clubes": [
+      "Club de Musica",
+      "Club de andinismo"
+    ],
+    "nombre": "Andres ",
+    "apellido": "Montufar ",
+    "cedula": "1582489964"
+  },
+  {
+    "carrera": "Ingenieria de Software",
+    "clubes": [
+      "Club de danza",
+      "Club de andinismo",
+      "Club de Software"
+    ],
+    "nombre": "Andrea ",
+    "apellido": "Molina",
+    "cedula": "1786592354"
+  },
+  {
+    "carrera": "Ingenieria de Software",
+    "clubes": [
+      "Club de danza",
+      "Club de andinismo",
+      "Club de Software"
+    ],
+    "nombre": "Andrea ",
+    "apellido": "Molina",
+    "cedula": "1786592354"
+  },
+  {
+    "carrera": "Ingenieria de Automotriz",
+    "clubes": [
+      "Club de danza",
+      "Club de andinismo",
+      "Club de Software"
+    ],
+    "nombre": "Abel",
+    "apellido": "Molina",
+    "cedula": "1786592478"
+  }
+]

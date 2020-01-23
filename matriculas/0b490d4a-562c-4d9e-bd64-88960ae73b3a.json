@@ -1,0 +1,60 @@
+{
+  "numero": "0b490d4a-562c-4d9e-bd64-88960ae73b3a",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 10,
+    "second": 20
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Andres ",
+    "apellido": "Montufar ",
+    "cedula": "1582489964"
+  },
+  "curso": {
+    "titulo": "Matemática Superior ",
+    "costo": 40.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 17,
+        "second": 54
+      },
+      "valor": 16.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 18,
+        "second": 0
+      },
+      "valor": 14.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 18,
+        "second": 2
+      },
+      "valor": 14.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 14.666667
+}

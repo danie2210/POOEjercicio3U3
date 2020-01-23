@@ -1,0 +1,60 @@
+{
+  "numero": "4420544f-d09a-4afb-bc3b-f02d09c89f29",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 11,
+    "second": 18
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Andrea ",
+    "apellido": "Molina",
+    "cedula": "1786592354"
+  },
+  "curso": {
+    "titulo": "Ballet ",
+    "costo": 50.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 12,
+        "second": 50
+      },
+      "valor": 0.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 12,
+        "second": 56
+      },
+      "valor": 20.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 13,
+        "second": 1
+      },
+      "valor": 10.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 10.0
+}

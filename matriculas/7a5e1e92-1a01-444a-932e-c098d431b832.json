@@ -1,0 +1,60 @@
+{
+  "numero": "7a5e1e92-1a01-444a-932e-c098d431b832",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 2,
+    "second": 46
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Francis ",
+    "apellido": "Armas ",
+    "cedula": "1724704695"
+  },
+  "curso": {
+    "titulo": "Inglés",
+    "costo": 80.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 16,
+        "second": 21
+      },
+      "valor": 17.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 16,
+        "second": 23
+      },
+      "valor": 17.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 16,
+        "second": 29
+      },
+      "valor": 18.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 17.333334
+}

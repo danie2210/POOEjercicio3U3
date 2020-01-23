@@ -1,0 +1,60 @@
+{
+  "numero": "8217c045-0b95-482f-90bc-993e9865245b",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 10,
+    "second": 11
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Roberto Tomas",
+    "apellido": "Flores Martines",
+    "cedula": "1824704695"
+  },
+  "curso": {
+    "titulo": "Ballet ",
+    "costo": 50.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 13,
+        "second": 30
+      },
+      "valor": 10.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 13,
+        "second": 36
+      },
+      "valor": 20.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 13,
+        "second": 43
+      },
+      "valor": 14.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 14.666667
+}

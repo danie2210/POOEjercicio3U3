@@ -1,0 +1,60 @@
+{
+  "numero": "8e24b6a3-2c45-4fce-9120-c1ff60b36721",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 2,
+    "second": 38
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Luis David",
+    "apellido": "Lignia Tuapanta",
+    "cedula": "1725785453"
+  },
+  "curso": {
+    "titulo": "Matemática Superior ",
+    "costo": 40.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 14,
+        "second": 41
+      },
+      "valor": 18.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 14,
+        "second": 48
+      },
+      "valor": 20.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 14,
+        "second": 55
+      },
+      "valor": 17.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 18.333334
+}

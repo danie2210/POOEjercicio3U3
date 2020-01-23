@@ -1,0 +1,60 @@
+{
+  "numero": "4d45ccd2-bb2a-4a32-b9a4-a912bc1caf32",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 10,
+    "second": 29
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Abel",
+    "apellido": "Molina",
+    "cedula": "1786592478"
+  },
+  "curso": {
+    "titulo": "Carpintería ",
+    "costo": 45.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 17,
+        "second": 34
+      },
+      "valor": 16.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 17,
+        "second": 36
+      },
+      "valor": 16.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 17,
+        "second": 38
+      },
+      "valor": 16.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 16.0
+}

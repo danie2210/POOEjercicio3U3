@@ -1,0 +1,60 @@
+{
+  "numero": "b5c7759a-3841-48fa-95da-e1a52490f98c",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 9,
+    "second": 53
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Damian Leonel",
+    "apellido": "Quiñones Paredes",
+    "cedula": "1821441569"
+  },
+  "curso": {
+    "titulo": "Música ",
+    "costo": 30.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 12,
+        "second": 22
+      },
+      "valor": 12.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 12,
+        "second": 27
+      },
+      "valor": 20.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 12,
+        "second": 30
+      },
+      "valor": 20.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 17.333334
+}
